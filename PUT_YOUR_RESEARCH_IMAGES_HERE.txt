@@ -1,0 +1,1 @@
+Add your profile photo and research figures to this folder, then update image references in index.html.
